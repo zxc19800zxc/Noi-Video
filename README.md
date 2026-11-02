@@ -4,7 +4,8 @@
 
 ### ✦ 把喜欢的内容，留在自己的世界里 ✦
 
-网盘 · 音乐 · 视频，一站式解析与下载体验。
+网盘 · 音乐 · 视频，一站式解析与下载体验
+需要KEY请联系邮箱哦~~
 
 ![Windows](https://img.shields.io/badge/Windows-Desktop-9c8af7?style=for-the-badge&logo=windows&logoColor=white&labelColor=25213b)
 ![Tauri](https://img.shields.io/badge/Tauri-2-86d9e7?style=for-the-badge&logo=tauri&logoColor=white&labelColor=25213b)
