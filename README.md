@@ -85,9 +85,11 @@
 
 | 渠道 | 联系方式 |
 | :--- | :--- |
+| QQ群聊 |[606654351]|
 | 邮箱 | [cncnoihack@gmail.com](mailto:cncnoihack@gmail.com) |
 | Telegram | [@NK_video_RongXun](https://t.me/NK_video_RongXun) |
 | Bilibili | [个人空间](https://space.bilibili.com/15566298?spm_id_from=333.1007.0.0) |
+
 
 > [!IMPORTANT]
 > 项目初期开放公开测试。为了支持后续维护，未来计划转为收费使用；如需获取 Key，请发送邮件至 [cncnoihack@gmail.com](mailto:cncnoihack@gmail.com)。具体收费方式与时间以之后的正式公告为准。
