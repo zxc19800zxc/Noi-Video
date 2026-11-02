@@ -56,7 +56,7 @@
 
 ## ↓ 下载使用
 
-前往 [Releases](https://github.com/zxc19800zxc/Noi-Video/releases) 查看发布版本及其使用说明。
+前往 [Releases](https://github.com/zxc19800zxc/Noi-Video/releases) 下载 **Noi Video Extractor 2.1.5 测试版**。第一次使用可以先看这份 [详细使用说明](使用说明.md)。
 
 1. 打开 Noi Video，按提示完成登录。
 2. 粘贴视频或网盘分享链接，开始解析。
