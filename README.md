@@ -56,7 +56,9 @@
 
 ## ↓ 下载使用
 
-前往 [Releases](https://github.com/zxc19800zxc/Noi-Video/releases) 下载 **Noi Video Extractor 2.1.5 测试版**。第一次使用可以先看这份 [详细使用说明](使用说明.md)。
+前往 [Releases](https://github.com/zxc19800zxc/Noi-Video/releases/tag/v2.1.7-test) 下载 **Noi Video Extractor 2.1.7 测试版**。第一次使用可以先看这份 [详细使用说明](使用说明.md)。
+
+这次整理了默认保存位置：登录后会在桌面创建 `NoiVideo` 文件夹；没有选择其他目录时，提取的视频和图片会放在这里。单个和批量提取都能终止当前任务，下载进度也会区分传输与文件处理阶段。
 
 1. 打开 Noi Video，按提示完成登录。
 2. 粘贴视频或网盘分享链接，开始解析。
